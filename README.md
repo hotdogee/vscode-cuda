@@ -13,3 +13,6 @@ Depending on your platform it is located:
 * **Windows** `%USERPROFILE%\.vscode\extensions`
 * **Mac** `$HOME/.vscode/extensions`
 * **Linux** `$HOME/.vscode/extensions`
+
+## License
+[MIT](LICENSE)
